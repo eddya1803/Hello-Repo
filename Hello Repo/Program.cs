@@ -10,6 +10,8 @@ namespace Hello_Repo
     {
         static void Main(string[] args)
         {
+            // La siguiente linea escribe en la consola
+            Console.WriteLine("Hello Repo");
         }
     }
 }
